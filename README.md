@@ -15,7 +15,7 @@
 ### Verify installation:
 ### bashgcc --version
 
-3.##  💻 Code Editor or IDE
-4.### VS code
-5. #### For Installation and Setup visit:
-6. #### https://code.visualstudio.com/docs/setup/setup-overview
+##  💻 Code Editor or IDE
+### VS code
+### For Installation and Setup visit:
+#### https://code.visualstudio.com/docs/setup/setup-overview
